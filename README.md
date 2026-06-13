@@ -16,9 +16,7 @@ A Python application that generates secure random passwords based on user requir
 ## How to Run
 
 1. Download the project
-2. Run:
-
-python password_generator.py
+2. Run:python password_generator.py
 
 ## Example Output
 
